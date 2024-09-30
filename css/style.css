@@ -46,6 +46,10 @@ header {
     background-color: yellow;
 }
 
+.evidenziata-2{
+    background-color: yellow;
+}
+
 .tabella{
     text-align: left;
     border-collapse: collapse;
@@ -73,3 +77,36 @@ header {
     width: 300px;
 }
 
+.titolo-footer{
+    color: grey;
+    margin-top: 40px;
+}
+
+.img-monitor {
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    position: relative;
+       
+}
+
+.img-grafico {
+    color: white;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    padding-left: 10px;
+    position: relative;
+        
+}
+
+.lorem {
+    font-size: x-large;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    
+}
