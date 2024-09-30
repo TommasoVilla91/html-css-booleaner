@@ -45,3 +45,31 @@ header {
 .evidenziata-1{
     background-color: yellow;
 }
+
+.tabella{
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.riga-1 {
+    background-color: rgb(15, 167, 218);
+    color: white;
+
+}
+
+.riga-2{
+    background-color: rgb(174, 228, 250);
+}
+
+.riga-4{
+    background-color: rgb(174, 228, 250);
+}
+
+.colonna-1 {
+    width: 300px;
+}
+
+.colonna-2 {
+    width: 300px;
+}
+
