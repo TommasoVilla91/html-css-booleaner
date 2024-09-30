@@ -1,3 +1,7 @@
+body {
+    padding-right: 1500px;
+}
+
 header {
     background-color: hsl(207, 100%, 50%);
     background-image: url(../img/pattern.png);
