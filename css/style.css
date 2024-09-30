@@ -14,6 +14,22 @@ header {
     left: 10px;
     
 }
-    
 
-        
+.titolo-principale {
+   margin-bottom: 2px;
+}
+
+.sottotitolo-1 {
+    color: grey;
+    margin: 0px;
+}
+
+.sottotitolo-2 {
+    color: grey;
+    margin: 0px;
+}
+
+.booleaner {
+    color: rgb(0, 183, 255) ;
+}
+    
